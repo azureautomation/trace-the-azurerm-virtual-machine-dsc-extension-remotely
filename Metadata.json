@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 814,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/trace-the-azurerm-virtual-machine-dsc-extension-remotely/master/Trace-AzureRMDSCExtension.ps1",
+    "DownloadCount": 719,
+    "Id": "Trace-the-AzureRM-Virtual-3d7ff949",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 196,
+    "RaterCount": 2,
+    "Rating": 4.5,
+    "ReleaseDate": "2018-4-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function is useful to trace the Azure DSC extension, especially in push mode.# Show all statuses, including Meta PushesTrace-AzureRMDSCExtension -ResourceGroup AZE2-ADF-RG-D06 -VMName AZE2-ADF-D6-vmAD02\u00a0 -StatusView 3# Just show the DSC for the main configurationTrace-AzureR",
+    "Title": "Trace the AzureRM Virtual Machine DSC Extension remotely",
+    "UpdatedDate": "2018-4-7T00:00:00",
+    "Url": "https://github.com/azureautomation/trace-the-azurerm-virtual-machine-dsc-extension-remotely",
+    "UserTags": "Virtual Machines, DSC, Desired State Configuration"
+}
